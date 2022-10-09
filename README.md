@@ -12,6 +12,7 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Set variables for assigning dataset values.
 3. Import linear regression from sklearn. Assign the points for representing in the graph.
 4.Predict the regression for marks by using the representation of the graph. Compare the graphs and hence we obtained the linear regression for the given datas.
+```
 
 ## Program:
 ```
